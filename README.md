@@ -1,2 +1,2 @@
 # tube
-A docker blue-green deployment system as container.
+A docker blue-green deployment system as a container.
